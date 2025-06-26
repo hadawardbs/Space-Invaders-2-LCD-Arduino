@@ -1,0 +1,10 @@
+Componentes utilizados no projeto:
+
+1 Arduino UNO/MEGA
+2 displays LCD 16x2 (Sem módulo I2C)
+1 potenciometro
+3 botões
+1 buzzer
+3 resistores (10k Ω) para botões
+2 resistores (330 Ω) para displays
+Vários Jumpers
