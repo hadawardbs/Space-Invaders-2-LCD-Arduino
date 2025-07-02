@@ -4,7 +4,7 @@ Componentes utilizados no projeto:
 2 displays LCD 16x2 (Sem módulo I2C)
 1 potenciometro
 3 botões
-1 buzzer
+1 buzzer (para efeitos sonoros)
 3 resistores (10k Ω) para botões
 2 resistores (330 Ω) para displays
 Vários Jumpers
