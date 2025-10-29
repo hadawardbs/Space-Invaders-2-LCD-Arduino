@@ -44,7 +44,7 @@ O jogo é controlado por botões e exibe a movimentação dos inimigos e do joga
 ## 🔗 Links Importantes
 
 - 🎮 **Projeto Original no Tinkercad:** [Clique aqui para acessar](https://www.tinkercad.com/things/6FMz1oGX6Bg-projeto-space-invaders-com-2-lcd-sem-efeitos-sonoros?sharecode=ApZ3dIfrCQZAPIDOOKYbFAd2AP10fWAGJ_BXco7bwzo)  
-- 📹 **Vídeo de Demonstração no YouTube:**
+- 📹 **Vídeo de Demonstração no YouTube:** [Assista aqui](https://www.youtube.com/watch?v=m7mRQU8E8xg)
 
 - [![Demonstração do Jogo](https://img.youtube.com/vi/m7mRQU8E8xg/0.jpg)](https://www.youtube.com/watch?v=m7mRQU8E8xg)
 
