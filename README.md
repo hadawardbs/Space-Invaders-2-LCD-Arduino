@@ -41,16 +41,6 @@ O jogo é controlado por botões e exibe a movimentação dos inimigos e do joga
 
 ---
 
-## 🖼️ Imagem do Circuito Montado
-
-![Circuito Montado](circuito_tinkercad.jpg)
-
-<p align="center">
-  <img src="circuito_tinkercad.jpg" alt="Circuito Montado" width="500">
-</p>
-
----
-
 ## 🔗 Links Importantes
 
 - 🎮 **Projeto Original no Tinkercad:** [Clique aqui para acessar](https://www.tinkercad.com/things/6FMz1oGX6Bg-projeto-space-invaders-com-2-lcd-sem-efeitos-sonoros?sharecode=ApZ3dIfrCQZAPIDOOKYbFAd2AP10fWAGJ_BXco7bwzo)  
