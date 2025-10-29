@@ -43,7 +43,11 @@ O jogo é controlado por botões e exibe a movimentação dos inimigos e do joga
 
 ## 🖼️ Imagem do Circuito Montado
 
-![Circuito Montado](circuito_tinkercad.png)
+![Circuito Montado](circuito_tinkercad.jpg)
+
+<p align="center">
+  <img src="circuito_tinkercad.jpg" alt="Circuito Montado" width="500">
+</p>
 
 ---
 
