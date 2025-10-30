@@ -50,7 +50,5 @@ O jogo é controlado por botões e exibe a movimentação dos inimigos e do joga
 
 ---
 
-## 💡 Créditos
-
-Desenvolvido por **Eduardo Brandão Silva**  
-Inspirado no clássico **Space Invaders (1978)**  
+⭐ Desenvolvido por **Eduardo Brandão**  
+👾 Inspirado no clássico **Space Invaders (1978)**  
